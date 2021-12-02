@@ -13,6 +13,9 @@ import java.io.ObjectInputStream;
 /**
  * Program to decompress files that were compressed by JMZip.
  * Performed by Huffman decoding.
+ *
+ * @author Dylan Moreno
+ * @version 12/1/2021
  */
 public class JMUnzip {
 

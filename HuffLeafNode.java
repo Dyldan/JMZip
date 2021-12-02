@@ -6,6 +6,9 @@
 
 /**
  * Encapsulating class representing a leaf node of a HuffTree.
+ *
+ * @author Dylan Moreno
+ * @version 12/1/2021
  */
 public class HuffLeafNode extends HuffBaseNode {
 

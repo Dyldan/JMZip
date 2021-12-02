@@ -14,6 +14,9 @@ import java.util.HashMap;
 
 /**
  * Program to losslessly compress files using Huffman encoding.
+ *
+ * @author Dylan Moreno
+ * @version 12/1/2021
  */
 public class JMZip {
 

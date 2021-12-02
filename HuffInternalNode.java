@@ -6,6 +6,9 @@
 
 /**
  * Encapsulating class representing an internal node of a HuffTree.
+ *
+ * @author Dylan Moreno
+ * @version 12/1/2021
  */
 public class HuffInternalNode extends HuffBaseNode {
 

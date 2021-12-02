@@ -6,6 +6,9 @@
 
 /**
  * Abstract class representing a Node in a Huffman tree.
+ *
+ * @author Dylan Moreno
+ * @version 12/1/2021
  */
 public abstract class HuffBaseNode {
 

@@ -12,6 +12,9 @@ import java.util.Map;
 /**
  * Encapsulating class to handle construction of a HuffTree, encoding
  * of a file, and decoding of a compressed file.
+ *
+ * @author Dylan Moreno
+ * @version 12/1/2021
  */
 public class HuffTreeBuilder {
 

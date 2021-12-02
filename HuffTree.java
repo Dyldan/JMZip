@@ -7,6 +7,9 @@
 /**
  * Encapsulating class representing a Huffman tree. Note that
  * a HuffTree could be just one node without any children.
+ *
+ * @author Dylan Moreno
+ * @version 12/1/2021
  */
 public class HuffTree implements Comparable<HuffTree> {
 
